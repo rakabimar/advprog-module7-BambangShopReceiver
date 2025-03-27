@@ -1,8 +1,7 @@
 # BambangShop Receiver App
 Tutorial and Example for Advanced Programming 2024 - Faculty of Computer Science, Universitas Indonesia
-
 ---
-
+### Rakabima Ghaniendra Rusdianto - Advanced Programming A - 2306228472
 ## About this Project
 In this repository, we have provided you a REST (REpresentational State Transfer) API project using Rocket web framework.
 
